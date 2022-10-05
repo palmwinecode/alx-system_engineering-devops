@@ -14,3 +14,5 @@
 	- And hidden files (starting with .)
 
 7. 6-firstdirectory : A bash script that creates a directory named my_first_directory in the /tmp/ directory.
+
+8. 7-movethatfile : A bash script that moves a file betty from /tmp/ to /tmp/my_first_directory.
