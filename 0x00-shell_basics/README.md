@@ -7,3 +7,8 @@
 4. 3-listfiles : A bash script that displays current directory contents in a long format.
 
 5. 4-listmorefiles : A bash script that displays current directory contents, including hidden files (starting with .). Using the long format.
+
+6. 5-listfilesdigitonly : A bash script that displays current directory contents.
+	- In long format
+	- With user and group IDs displayed numerically
+	- And hidden files (starting with .)
