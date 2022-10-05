@@ -34,3 +34,5 @@
 16. 100-lets_move : A bash script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
 17. 101-clean_emacs : A bash script that deletes all files in the current working directory that end with the character ~.
+
+18. 102-tree : A bash script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
