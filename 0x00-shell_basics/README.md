@@ -19,4 +19,6 @@
 
 9. 8-firstdelete : A bash script that deletes the file betty from /tmp/my_first_directory.
 
-10. 9-firstdirdeletion : A bash script that deletes the my_first directory in /tmp.
+10. 9-firstdirdeletion : A bash script that deletes the my_first directory in /tmp
+
+11. 10-back : A bash script that changes the working directory to the previous one.
