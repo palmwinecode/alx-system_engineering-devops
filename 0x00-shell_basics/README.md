@@ -22,3 +22,5 @@
 10. 9-firstdirdeletion : A bash script that deletes the my_first directory in /tmp
 
 11. 10-back : A bash script that changes the working directory to the previous one.
+
+12. 11-lists : A bash script thats lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
