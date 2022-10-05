@@ -15,6 +15,8 @@
 
 7. 6-firstdirectory : A bash script that creates a directory named my_first_directory in the /tmp/ directory.
 
-8. 7-movethatfile : A bash script that moves a file betty from /tmp/ to /tmp/my_first_directory
+8. 7-movethatfile : A bash script that moves a file betty from /tmp/ to /tmp/my_first_directory.
 
-9. 8-firstdelete : A bash script that deletes the file betty from /tmp/my_first_directory/
+9. 8-firstdelete : A bash script that deletes the file betty from /tmp/my_first_directory.
+
+10. 9-firstdirdeletion : A bash script that deletes the my_first directory in /tmp.
