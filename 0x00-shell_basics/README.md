@@ -44,3 +44,5 @@
 	- Only digits and letters are used to sort; Digits will come first.
 	- All the files are assumed to have at least one letter or one digit.
 	- The listing will end with a new line.
+
+20. school.mgc : A magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
