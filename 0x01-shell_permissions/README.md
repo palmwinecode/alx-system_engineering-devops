@@ -9,3 +9,5 @@ The following bash scripts:
 4. 3-new_owner : Changes the owner of the file hello to the user betty.
 
 5. 4-empty : Creates an empty file called hello.
+
+6. 5-execute : Adds execute permission to the owner of the file hello.
