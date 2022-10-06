@@ -19,4 +19,6 @@ The following bash scripts:
 9. 8-James_Bond : Sets the permission to the file hello as follows:
 	- Owner: no permission at all
 	- Group: no permission at all
-	- Other users: all the permissions
+	- Other users: all the permission
+
+10. 9-John_Doe : Sets the mode of the file hello to this: rwxr-w-wx.
