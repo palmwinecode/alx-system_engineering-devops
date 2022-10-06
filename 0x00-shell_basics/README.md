@@ -36,3 +36,11 @@
 17. 101-clean_emacs : A bash script that deletes all files in the current working directory that end with the character ~.
 
 18. 102-tree : A bash script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+19. 103-commas : A bash script that lists all the files and directories of the current directory, separated by commas (,).
+	- Directory names will end with a slash (/).
+	- Files and directories starting with a dot (.) will be listed.
+	- The listing will be alpha ordered, except for the directories . and .. which will be listed at the very beginning.
+	- Only digits and letters are used to sort; Digits will come first.
+	- All the files are assumed to have at least one letter or one digit.
+	- The listing will end with a new line.
