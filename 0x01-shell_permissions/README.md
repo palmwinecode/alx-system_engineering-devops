@@ -24,3 +24,5 @@ The following bash scripts:
 10. 9-John_Doe : Sets the mode of the file hello to this: rwxr-w-wx.
 
 11. 10-mirror_permissions : Sets the mode of the file hello the same as olleh’s mode.
+
+12. 11-directories_permissions : Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files will not be changed.
