@@ -22,3 +22,5 @@ The following bash scripts:
 	- Other users: all the permission
 
 10. 9-John_Doe : Sets the mode of the file hello to this: rwxr-w-wx.
+
+11. 10-mirror_permissions : Sets the mode of the file hello the same as olleh’s mode.
