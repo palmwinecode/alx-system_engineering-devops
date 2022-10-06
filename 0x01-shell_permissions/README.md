@@ -36,3 +36,5 @@ The following bash scripts:
 16. 101-symbolic_link_permissions : Changes the owner and the group owner of symbolic link _hello to vincent and staff respectively.
 
 17. 102-if_only : Changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+18. 103-Star_Wars : Play the StarWars IV episode in the terminal.
