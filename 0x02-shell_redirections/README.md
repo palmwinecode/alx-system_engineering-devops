@@ -30,3 +30,5 @@
 	* Hidden directories will be counted.
 
 13. `12-newest_files` : Displays the 10 newest files in the current directory. Sorted from newest to oldest, one file per line.
+
+14. `13-unique` : Takes a list of words as input and prints only words that appear exactly once. Output will be sorted.
