@@ -8,3 +8,5 @@
 2. `1-confused_smiley` : Displays a confused smiley "(Ôo)'.
 
 3. `2-hellofile` : Displays the content of the /etc/passwd file.
+
+4. `3-twofiles` : Displays the content of /etc/passwd and /etc/hosts.
