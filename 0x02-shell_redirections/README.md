@@ -53,3 +53,5 @@
 24. `100-empty_casks` : Finds all empty files and directories in the current directory and all sub-directories.
 
 25. `101-gifs` : Lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+26. `102-acrostic` : Decodes acrostics that use the first letter of each line.
