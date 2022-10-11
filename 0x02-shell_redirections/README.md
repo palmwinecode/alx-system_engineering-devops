@@ -45,3 +45,5 @@
 20. `19-AZ` : Replaces all characters A and c from input to Z and e respectively.
 
 21. `20-hiago` : Removes all letters c and C from input.
+
+22. `21-reverse` : Reverses its input.
