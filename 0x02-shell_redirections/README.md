@@ -43,3 +43,5 @@
 19. `18-letteronly` : Displays lines of the file /etc/ssh/sshd_config starting with a letter.
 
 20. `19-AZ` : Replaces all characters A and c from input to Z and e respectively.
+
+21. `20-hiago` : Removes all letters c and C from input.
